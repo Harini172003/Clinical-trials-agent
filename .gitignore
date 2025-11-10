@@ -1,0 +1,23 @@
+# Virtual environments
+env/
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS / Editor files
+.DS_Store
+.vscode/
+.idea/
+
+# Model & embedding files
+*.bin
+*.pt
+*.ckpt
+
+# Large data
+data/
+*.csv
+*.zip
